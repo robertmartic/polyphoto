@@ -1,0 +1,7 @@
+PolyPhoto uses Microsoft .NET Runtime and WPF 10.0.12 (MIT, with their supplied third-party notices). The self-contained package includes licenses/dotnet/.
+
+Windows WIC, color conversion and Windows fonts are operating-system services. No font files or paid image SDKs are bundled.
+
+Theme, dialog, updater and packaging infrastructure is adapted from PolyPDF / PolyWriter by their owner. Earlier MIT-covered code retains those grants; the original notice is in licenses/POLYPDF-MIT-LEGACY.txt.
+
+Installer: NSIS 3.13 with the unmodified zlib stub and standard plugins; see licenses/nsis/COPYING.txt for applicable notices. No LZMA compression module is selected.
