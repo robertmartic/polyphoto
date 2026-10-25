@@ -1,3 +1,10 @@
+# PolyPhoto changelog
+
+## 0.1.1
+
+- Added optional PolyHUB integration for coordinated updates while preserving application save prompts.
+- Coordinated setup, uninstall and update locking.
+
 # Changelog
 
 ## 0.1.0

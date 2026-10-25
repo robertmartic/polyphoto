@@ -1,7 +1,5 @@
 # PolyPhoto
 
-![PolyPhoto](assets/polyphoto.png)
-
 Version 0.1.0. A standalone local raster editor for Windows x64. English interface, light/dark themes, free and unlocked. No account, photo upload, subscription or activation.
 
 [Download PolyPhoto for Windows](https://github.com/robertmartic/polyphoto/releases/latest). Choose the -setup.exe asset for installation or the -win-x64.zip asset for portable use. Official updates use this same public release channel.

@@ -11,3 +11,7 @@ Portable copies check the same channel but show that setup or manual replacement
 About > Updates > Manage update storage shows recognized downloads and retained backups. Cleanup preserves active jobs, the latest verified backup, user documents, preferences and document recovery. An interrupted installation may require the full installer; keep backup folders until the app and documents are confirmed working.
 
 0.1.0 is the full baseline: setup, portable ZIP, update manifest and maintenance installer. No public delta applies until a previous PolyPhoto release exists.
+
+## Optional PolyHUB integration
+
+This release supports the local PolyHUB protocol for coordinated updates. PolyHUB requests the existing application updater; download controls, save prompts, deltas/full fallback and rollback remain in this application. It also verifies the installed result. The app remains fully usable without PolyHUB. Setup, uninstall and update helpers coordinate maintenance to avoid concurrent changes.
