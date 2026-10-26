@@ -1,5 +1,11 @@
 # PolyPhoto changelog
 
+## 0.1.6
+
+- Add Shadows and Highlights alongside Brightness and Contrast in the renamed Tone adjustments window.
+- Preview all four adjustments together on the active layer, reset their values, apply as one Undo step or cancel.
+- Keep tooltip text and backgrounds readable in the dark theme and when switching themes.
+
 ## 0.1.5
 
 - Work with raster layers: add, duplicate, rename, reorder, hide, change opacity and remove layers.
