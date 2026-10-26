@@ -1,11 +1,19 @@
 # PolyPhoto changelog
 
+## 0.1.2
+
+- Use clear vector icons for file, image, adjustment and view commands.
+- Keep raster tools in a vertical selector with a persistent active indicator.
+- Access commands through More when toolbar space is limited.
+- Navigate named controls and overflow menus with the keyboard in light and dark themes.
+- Rotation and mirroring commands now complete reliably.
+
 ## 0.1.1
 
 - Added optional PolyHUB integration for coordinated updates while preserving application save prompts.
 - Coordinated setup, uninstall and update locking.
 
-# Changelog
+
 
 ## 0.1.0
 - Create and edit local images in a single raster layer.
