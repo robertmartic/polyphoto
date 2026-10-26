@@ -1,36 +1,36 @@
 {
-  "Version": "0.1.2",
-  "SourceRevision": "28a07545782a69d50197dbc6bcbfd6323632143a",
+  "Version": "0.1.5",
+  "SourceRevision": "506404d6d15abbd472bf0ef86f3e20486864e23f",
   "Assets": [
     {
-      "Name": "PolyPhoto-0.1.2-setup.exe",
-      "Bytes": 64128379,
-      "Sha256": "509b4bbd883e23d26a9b2be63cdd4a06619a115eefbe494330cbf6ca90f3e1ae",
-      "Url": "https://github.com/robertmartic/polyphoto/releases/download/v0.1.2/PolyPhoto-0.1.2-setup.exe"
+      "Name": "PolyPhoto-0.1.5-setup.exe",
+      "Bytes": 64140769,
+      "Sha256": "4496ba5eaad279e21e4732a6a789af081f1f40b08c3c88cdba2c49f47b48b969",
+      "Url": "https://github.com/robertmartic/polyphoto/releases/download/v0.1.5/PolyPhoto-0.1.5-setup.exe"
     },
     {
-      "Name": "PolyPhoto-0.1.2-maintenance.exe",
-      "Bytes": 485257,
-      "Sha256": "ddf5b4f3d399ef302a8f5a107cd4d7c61f99d35d0be87d40f6fb3e54bc850c48",
-      "Url": "https://github.com/robertmartic/polyphoto/releases/download/v0.1.2/PolyPhoto-0.1.2-maintenance.exe"
+      "Name": "PolyPhoto-0.1.5-maintenance.exe",
+      "Bytes": 485248,
+      "Sha256": "ce8dc28b44c5ccf978409d12e8a986ec140a577db10b4136ab59473466378eff",
+      "Url": "https://github.com/robertmartic/polyphoto/releases/download/v0.1.5/PolyPhoto-0.1.5-maintenance.exe"
     },
     {
-      "Name": "PolyPhoto-0.1.2-win-x64.zip",
-      "Bytes": 67049392,
-      "Sha256": "7d517b9e312450b8a7076452e452a092316ab19122aa89df5ea558cc3040e25d",
-      "Url": "https://github.com/robertmartic/polyphoto/releases/download/v0.1.2/PolyPhoto-0.1.2-win-x64.zip"
+      "Name": "PolyPhoto-0.1.5-win-x64.zip",
+      "Bytes": 67066654,
+      "Sha256": "b502870b54f8307f99989c08fef3e98626afc18cc786ed7846d477d93f28d073",
+      "Url": "https://github.com/robertmartic/polyphoto/releases/download/v0.1.5/PolyPhoto-0.1.5-win-x64.zip"
     },
     {
-      "Name": "PolyPhoto-0.1.2-manifest.json",
-      "Bytes": 70588,
-      "Sha256": "69fc900b76bf1ff901911cc146f1d59e3d067aea517f495aa95ec30f3530fafb",
-      "Url": "https://github.com/robertmartic/polyphoto/releases/download/v0.1.2/PolyPhoto-0.1.2-manifest.json"
+      "Name": "PolyPhoto-0.1.5-manifest.json",
+      "Bytes": 70589,
+      "Sha256": "48a86073fed8ba34147b0e341a0287d4ee10c86c8bea161b393b058250f25a01",
+      "Url": "https://github.com/robertmartic/polyphoto/releases/download/v0.1.5/PolyPhoto-0.1.5-manifest.json"
     },
     {
-      "Name": "PolyPhoto-0.1.1-to-0.1.2-delta.zip",
-      "Bytes": 1944705,
-      "Sha256": "342806c6f3cba8b2a3c8a201056ad289f71b7d07258de15e3c1fb43d83b1fab6",
-      "Url": "https://github.com/robertmartic/polyphoto/releases/download/v0.1.2/PolyPhoto-0.1.1-to-0.1.2-delta.zip"
+      "Name": "PolyPhoto-0.1.2-to-0.1.5-delta.zip",
+      "Bytes": 1961965,
+      "Sha256": "d336870e8f6d3365f63131966b3ed503a1015104a0eaf0cebd1119a26aa1a6a7",
+      "Url": "https://github.com/robertmartic/polyphoto/releases/download/v0.1.5/PolyPhoto-0.1.2-to-0.1.5-delta.zip"
     }
   ]
 }

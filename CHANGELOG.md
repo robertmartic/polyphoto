@@ -1,5 +1,14 @@
 # PolyPhoto changelog
 
+## 0.1.5
+
+- Work with raster layers: add, duplicate, rename, reorder, hide, change opacity and remove layers.
+- Import PNG or JPEG images as new layers.
+- Preview active-layer movement, scaling, rotation and mirroring before applying or cancelling.
+- Paint, erase and adjust the active layer; export the visible composition as PNG or JPEG.
+- Save and recover complete layered projects, including hidden pixels, while continuing to open older projects.
+- Undo and redo layer edits and transformations within the existing history budget.
+
 ## 0.1.2
 
 - Use clear vector icons for file, image, adjustment and view commands.
