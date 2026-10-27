@@ -1,5 +1,16 @@
 # PolyPhoto changelog
 
+## 0.2.8
+
+- Transform the active layer with an interactive canvas and draggable scale/rotation handles.
+- Scale width and height independently or lock their aspect ratio.
+- Move the pivot without shifting the image and choose common pivot presets.
+- Add horizontal/vertical skew, perspective/distort corners and a basic nine-point Warp mesh.
+- Combine transformations in one preview, reset them, cancel or apply as one Undo step.
+- Edit corner and mesh coordinates numerically, nudge with arrow keys and fit or zoom the workspace.
+- Reject crossed, collapsed or otherwise invalid geometry before applying it.
+- Protect other document tabs while the transformation workspace is open.
+
 ## 0.2.5
 
 - Open and switch between multiple images and projects in document tabs.

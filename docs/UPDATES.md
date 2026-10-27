@@ -16,6 +16,6 @@ About > Updates > Manage update storage shows recognized downloads and retained 
 
 This release supports the local PolyHUB protocol for coordinated updates. PolyHUB requests the existing application updater; download controls, save prompts, deltas/full fallback and rollback remain in this application. It also verifies the installed result. The app remains fully usable without PolyHUB. Setup, uninstall and update helpers coordinate maintenance to avoid concurrent changes.
 
-Version 0.2.5 supplies a file-level delta from 0.2.1 when its installed files match the published base manifest. Older or modified copies use the full package.
+Version 0.2.8 supplies a file-level delta from 0.2.5 when its installed files match the published base manifest. Older or modified copies use the full package.
 
 The update close gate visits unsaved work in every document tab. Cancelling any save/close prompt keeps all tabs open and abandons the prepared update.
