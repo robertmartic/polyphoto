@@ -1,5 +1,15 @@
 # PolyPhoto changelog
 
+## 0.2.5
+
+- Open and switch between multiple images and projects in document tabs.
+- Keep layers, selections, Undo/Redo, save state, view and Clone Stamp source independent for each tab.
+- Open multiple files together, close individual tabs and save all modified projects.
+- Protect unsaved work in every tab when closing the window or starting an update.
+- Recover modified documents from background tabs as well as the active tab.
+- Remember brush size, Hardness, Opacity and color between launches.
+- Change brush size with bracket or numpad shortcuts and reach Tool options above Layers.
+
 ## 0.2.1
 
 - Rename Softness to Hardness for Brush, Eraser and Clone Stamp.
