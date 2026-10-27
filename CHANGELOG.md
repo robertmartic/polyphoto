@@ -1,5 +1,15 @@
 # PolyPhoto changelog
 
+## 0.2.0
+
+- Select with rectangles, ellipses or freehand shapes; add, subtract, invert and copy selected pixels to a new layer.
+- Keep painting, erasing, deletion, cloning and Tone adjustments inside the active selection.
+- Retouch with Clone Stamp using an aligned source and stable per-stroke sampling.
+- Set brush and eraser softness and see the brush diameter directly on the canvas.
+- Undo, redo or cancel complete selection gestures and retouch strokes.
+- Reduce allocations while composing layers and refreshing the canvas, with bounded selection/history storage.
+- Continue opening existing projects and recovering every layer after interrupted sessions.
+
 ## 0.1.6
 
 - Add Shadows and Highlights alongside Brightness and Contrast in the renamed Tone adjustments window.
