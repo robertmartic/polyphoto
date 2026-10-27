@@ -1,5 +1,10 @@
 # PolyPhoto changelog
 
+## 0.2.1
+
+- Rename Softness to Hardness for Brush, Eraser and Clone Stamp.
+- Use 0% for a soft edge and 100% for a hard edge, with the same brush shapes and the previous hard-edge default.
+
 ## 0.2.0
 
 - Select with rectangles, ellipses or freehand shapes; add, subtract, invert and copy selected pixels to a new layer.
