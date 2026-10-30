@@ -1,5 +1,12 @@
 # PolyPhoto changelog
 
+## 0.2.9
+
+- Updates now use the signed PolyStudio update channel and verified official downloads.
+- Stronger update signature, package integrity and download-origin validation.
+- Safer full-package repair when installed application files have changed.
+- This infrastructure update preserves existing photo tools, projects, settings and recovery.
+
 ## 0.2.8
 
 - Transform the active layer with an interactive canvas and draggable scale/rotation handles.
