@@ -1,5 +1,14 @@
 # PolyPhoto changelog
 
+## 0.3.5
+
+- Add layer masks from the current selection or a white mask. Paint with black and white, invert, enable, disable, or remove a mask.
+- Link or unlink a mask to transform layer pixels and the mask together or separately. Load a selection from layer transparency or a mask.
+- Group layers, select multiple layers, move them into or out of groups, and duplicate complete groups with their masks.
+- Lock layers, merge adjacent layers, and choose Normal, Multiply, Screen, or Overlay in Layer properties.
+- Open the searchable offline Help window from the toolbar or F1. Browse categories and follow step-by-step instructions for editing, saving, and recovering projects.
+- Save and recover extended layer data while continuing to open older PolyPhoto projects.
+
 ## 0.2.9
 
 - Updates now use the signed PolyStudio update channel and verified official downloads.

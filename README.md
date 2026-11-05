@@ -1,8 +1,8 @@
 # PolyPhoto
 
-Version 0.2.9. A standalone local raster editor for Windows x64. English interface, light/dark themes, free and unlocked. No account, photo upload, subscription or activation.
+Version 0.3.5. A standalone local raster editor for Windows x64. English interface, light/dark themes, free and unlocked. No account, photo upload, subscription or activation.
 
-[Download PolyPhoto for Windows](https://github.com/robertmartic/polyphoto/releases/latest). Choose the -setup.exe asset for installation or the -win-x64.zip asset for portable use. In-app updates use the signed PolyStudio channel.
+[Download the Windows installer](https://downloads.polystudio.tools/polyphoto/0.3.5/PolyPhoto-0.3.5-setup.exe) or [the portable ZIP](https://downloads.polystudio.tools/polyphoto/0.3.5/PolyPhoto-0.3.5-win-x64.zip). In-app updates use the signed PolyStudio channel.
 
 File and operation commands use local vector icons. Raster tools stay in a vertical selector with a persistent active indicator. Narrow toolbars move commands into More; use Down to enter and Escape to close it. Tooltips include existing shortcuts and commands expose accessible names in both themes.
 
@@ -37,3 +37,5 @@ Transform workspace: choose Free Transform for corner/edge scaling and the round
 Keep perspective corners and Warp cells convex, without crossing or collapsing their edges. Invalid settings disable Apply and show a reason. Transformations stay temporary until Apply; applied results are raster pixels and the project format remains unchanged. Other tabs and editing commands are locked while the workspace is open; background recovery retains the original document state.
 
 Updates use the signed [PolyStudio channel](https://updates.polystudio.tools/polyphoto/stable.json) and verified official downloads. GitHub 0.2.9 provides a transition for older clients.
+
+PolyPhoto 0.3.5 adds masks, groups, multiple layer selection, lock, merge and Normal, Multiply, Screen and Overlay blending. Choose Help or press F1 for searchable offline instructions. Projects with extended layer data use format 3 and require PolyPhoto 0.3.5 or later. Plain projects retain format 2.
