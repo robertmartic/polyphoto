@@ -1,38 +1,38 @@
 {
   "Format": 1,
-  "Version": "0.3.5",
-  "BuildProvenance": "a593786c77cc4ac487d5b52a3fdf07b6",
+  "Version": "0.3.7",
+  "BuildProvenance": "6dac66a803d24dbc8d414e5532dd739c",
   "Channel": "https://updates.polystudio.tools/polyphoto/stable.json",
   "Assets": [
     {
-      "Name": "PolyPhoto-0.3.5-setup.exe",
-      "Bytes": 64251829,
-      "Sha256": "df4796a839c4e5a502e6d63fa3304937ab205846b7b8a580c1fb664d50fbad89",
-      "Url": "https://downloads.polystudio.tools/polyphoto/0.3.5/PolyPhoto-0.3.5-setup.exe"
+      "Name": "PolyPhoto-0.3.7-setup.exe",
+      "Bytes": 64266986,
+      "Sha256": "61b1e4675035bc58810fa7349fa51c80eb5a6442f4c38a836f5228076590b2eb",
+      "Url": "https://downloads.polystudio.tools/polyphoto/0.3.7/PolyPhoto-0.3.7-setup.exe"
     },
     {
-      "Name": "PolyPhoto-0.3.5-maintenance.exe",
-      "Bytes": 485226,
-      "Sha256": "f34759f40b7b7dc85a90133894633e27d7dd8620d8b934c5f1d176f6012e4464",
-      "Url": "https://downloads.polystudio.tools/polyphoto/0.3.5/PolyPhoto-0.3.5-maintenance.exe"
+      "Name": "PolyPhoto-0.3.7-maintenance.exe",
+      "Bytes": 485224,
+      "Sha256": "3fe22486a7fd198b6678da14515ea77fbbff524c3801e202fa1b58407f367025",
+      "Url": "https://downloads.polystudio.tools/polyphoto/0.3.7/PolyPhoto-0.3.7-maintenance.exe"
     },
     {
-      "Name": "PolyPhoto-0.3.5-win-x64.zip",
-      "Bytes": 67177134,
-      "Sha256": "6abad2b87f5316bb6f546f2d628461678bd55085b03e79f132c4a265c1e41ea0",
-      "Url": "https://downloads.polystudio.tools/polyphoto/0.3.5/PolyPhoto-0.3.5-win-x64.zip"
+      "Name": "PolyPhoto-0.3.7-win-x64.zip",
+      "Bytes": 67186513,
+      "Sha256": "2dc260fe46376fea98b2bf62bdaf3eb3572d756b14b07d715785ac77884e9f66",
+      "Url": "https://downloads.polystudio.tools/polyphoto/0.3.7/PolyPhoto-0.3.7-win-x64.zip"
     },
     {
-      "Name": "PolyPhoto-0.3.5-manifest.json",
+      "Name": "PolyPhoto-0.3.7-manifest.json",
       "Bytes": 70589,
-      "Sha256": "88521a39b4217dcccc5ee65f4f260576d44d593583c05d2ae186488ff8894d30",
-      "Url": "https://downloads.polystudio.tools/polyphoto/0.3.5/PolyPhoto-0.3.5-manifest.json"
+      "Sha256": "25633b40b94f28b7c70c499ef79729b97ebf96b781b16263168bc88e4587b3d7",
+      "Url": "https://downloads.polystudio.tools/polyphoto/0.3.7/PolyPhoto-0.3.7-manifest.json"
     },
     {
-      "Name": "PolyPhoto-0.2.9-to-0.3.5-delta.zip",
-      "Bytes": 2071964,
-      "Sha256": "d88fcc47c963d72cd7c85c30b24016404e19f7c15d3c9bb8980924cda04c7fde",
-      "Url": "https://downloads.polystudio.tools/polyphoto/0.3.5/PolyPhoto-0.2.9-to-0.3.5-delta.zip"
+      "Name": "PolyPhoto-0.3.5-to-0.3.7-delta.zip",
+      "Bytes": 2081352,
+      "Sha256": "b309db10ce88d2c25798d0bd13eda6e1f63a7a7e1ebfa9bf2f23bb2b3a1ec75d",
+      "Url": "https://downloads.polystudio.tools/polyphoto/0.3.7/PolyPhoto-0.3.5-to-0.3.7-delta.zip"
     }
   ]
 }

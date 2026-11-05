@@ -1,5 +1,11 @@
 # PolyPhoto changelog
 
+## 0.3.7
+
+- Choose paint colors with a color wheel, brightness controls, live current and new swatches, and an optional HEX value.
+- Fill connected areas with Paint Bucket (G). Set tolerance to control how similar neighboring pixels must be. The fill respects the active layer, selection, and Undo.
+- Browse offline Help for Color wheel and Paint Bucket.
+
 ## 0.3.5
 
 - Add layer masks from the current selection or a white mask. Paint with black and white, invert, enable, disable, or remove a mask.
