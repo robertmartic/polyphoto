@@ -1,8 +1,8 @@
 # PolyPhoto
 
-Version 0.3.7. A standalone local raster editor for Windows x64. English interface, light/dark themes, free and unlocked. No account, photo upload, subscription or activation.
+Version 0.4.5. A standalone local raster editor for Windows x64. English interface, light/dark themes, free and unlocked. No account, photo upload, subscription or activation.
 
-[Download the Windows installer](https://downloads.polystudio.tools/polyphoto/0.3.7/PolyPhoto-0.3.7-setup.exe) or [the portable ZIP](https://downloads.polystudio.tools/polyphoto/0.3.7/PolyPhoto-0.3.7-win-x64.zip). In-app updates use the signed PolyStudio channel.
+[Download the Windows installer](https://downloads.polystudio.tools/polyphoto/0.4.5/PolyPhoto-0.4.5-setup.exe) or [the portable ZIP](https://downloads.polystudio.tools/polyphoto/0.4.5/PolyPhoto-0.4.5-win-x64.zip). In-app updates use the signed PolyStudio channel.
 
 File and operation commands use local vector icons. Raster tools stay in a vertical selector with a persistent active indicator. Narrow toolbars move commands into More; use Down to enter and Escape to close it. Tooltips include existing shortcuts and commands expose accessible names in both themes.
 
@@ -10,7 +10,7 @@ Create an image, or open a still PNG/JPEG as a new unsaved project. Save and Sav
 
 Raster layers with names, visibility, opacity and ordering; 8-bit channels, sRGB. Projects retain every layer, including hidden pixels. Format 1 projects remain readable; format 2 projects require PolyPhoto 0.1.5 or newer. Embedded ICC profiles are converted only after the import notice is accepted. Unsupported profiles stop import, with an explicit option to ignore the profile and assume sRGB. EXIF orientation is applied once. Other EXIF/IPTC/XMP metadata, including GPS, is not copied into projects/exports. PNG keeps transparency; JPEG uses the selected background and quality with lossy compression.
 
-Limits: 24 million pixels; 16,384 pixels per side; 256 MiB input file; up to 16 layers within a 512 MiB padded pixel-storage limit; up to 16 document tabs per window within a shared 2 GiB pixel/history budget (not a process working-set cap). Unsupported: animation, CMYK, HDR, 16/32-bit channels, RAW, PSD, XCF and multi-page images. Undo retains changed pixel blocks and immutable selection masks within a 256 MiB history budget. Older history is removed when needed. Undo is not saved in projects.
+Limits: 24 million pixels; 16,384 pixels per side; 256 MiB input file; up to 16 layers within a 512 MiB padded pixel and mask storage limit; up to 16 document tabs per window within a shared 2 GiB pixel/history budget (not a process working-set cap). Unsupported: animation, CMYK, HDR, 16/32-bit channels, RAW, PSD, XCF and multi-page images. Undo retains changed pixel blocks and immutable selection masks within a 256 MiB history budget. Older history is removed when needed. Undo is not saved in projects.
 
 Tools: rectangle, ellipse and freehand selections with New/Add/Subtract modes, invert and copy to a new layer; selection delete/crop; round brush/eraser with size, opacity and hardness; Clone Stamp; color picker/eyedropper, separate image/canvas resize, 90-degree rotations, flips and Tone adjustments (Brightness, Contrast, Shadows, Highlights). A completed stroke or applied operation is one Undo step. Selection changes can also be undone. Add, duplicate, rename, reorder, hide and remove layers in the Layers panel. Brush, eraser, selection delete and Tone adjustments affect the active layer. Image crop/resize/rotate/flip affect the entire stack. Import PNG/JPEG as a layer at the top left; pixels beyond the canvas are clipped. Transform layer opens an interactive canvas with Free Transform, independent width/height scaling, aspect lock, a movable pivot, skew, perspective/distort corners and a basic 3×3 Warp mesh. Drag handles or enter precise values. Changing the pivot keeps the image in place. Combine transformations in one preview; Apply clips off-canvas content and creates one Undo step; Cancel leaves the original unchanged. Choose bilinear interpolation for photos or nearest neighbour for pixel art. PNG/JPEG exports flatten visible layers with opacity. Moving selections, clipboard and text are planned separately.
 
@@ -41,3 +41,5 @@ Updates use the signed [PolyStudio channel](https://updates.polystudio.tools/pol
 PolyPhoto 0.3.5 adds masks, groups, multiple layer selection, lock, merge and Normal, Multiply, Screen and Overlay blending. Choose Help or press F1 for searchable offline instructions. Projects with extended layer data use format 3 and require PolyPhoto 0.3.5 or later. Plain projects retain format 2.
 
 Choose paint colors with the Color wheel and use Paint Bucket (G) to fill a connected area on the active layer. The Tolerance control and active selection limit the fill.
+
+The Adjust tab includes editable Tone, Levels, Curves, Hue / Saturation, and Color Balance layers. Levels and Curves show an input histogram. Select an adjustment in Layers and choose Edit adjustment to reopen its controls. Projects that use adjustment layers require PolyPhoto 0.4.5 or later and are saved in format 4.

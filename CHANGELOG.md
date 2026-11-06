@@ -1,5 +1,12 @@
 # PolyPhoto changelog
 
+## 0.4.5
+
+- Add editable adjustment layers for Tone, Levels, Curves, Hue / Saturation, and Color Balance. Use layer opacity, visibility, or a mask to control their effect on the layers below.
+- Preview tonal and color changes live. Levels and Curves show an input histogram, and Curves offers five draggable tonal anchors.
+- Find named adjustment tools together under Adjust. Add or reopen an adjustment directly from Layers.
+- Save and recover adjustment layers, and export their visible results in PNG or JPEG.
+
 ## 0.3.7
 
 - Choose paint colors with a color wheel, brightness controls, live current and new swatches, and an optional HEX value.
