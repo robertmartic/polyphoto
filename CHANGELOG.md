@@ -1,5 +1,11 @@
 # PolyPhoto changelog
 
+## 0.4.6
+
+- Find the layer stack, selected-layer controls, and mask controls in separate sections. Expand Layer actions for organization commands.
+- Change layer opacity on the canvas with a live slider. One Undo reverses a drag. Set raster layer blending directly in the sidebar.
+- Use one Tone command for brightness, contrast, shadows, and highlights. Tone defaults to an editable adjustment layer. When an unlocked raster layer is selected, choose Change layer pixels to apply the effect directly.
+
 ## 0.4.5
 
 - Add editable adjustment layers for Tone, Levels, Curves, Hue / Saturation, and Color Balance. Use layer opacity, visibility, or a mask to control their effect on the layers below.

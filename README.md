@@ -1,8 +1,8 @@
 # PolyPhoto
 
-Version 0.4.5. A standalone local raster editor for Windows x64. English interface, light/dark themes, free and unlocked. No account, photo upload, subscription or activation.
+Version 0.4.6. A standalone local raster editor for Windows x64. English interface, light/dark themes, free and unlocked. No account, photo upload, subscription or activation.
 
-[Download the Windows installer](https://downloads.polystudio.tools/polyphoto/0.4.5/PolyPhoto-0.4.5-setup.exe) or [the portable ZIP](https://downloads.polystudio.tools/polyphoto/0.4.5/PolyPhoto-0.4.5-win-x64.zip). In-app updates use the signed PolyStudio channel.
+[Download the Windows installer](https://downloads.polystudio.tools/polyphoto/0.4.6/PolyPhoto-0.4.6-setup.exe) or [the portable ZIP](https://downloads.polystudio.tools/polyphoto/0.4.6/PolyPhoto-0.4.6-win-x64.zip). In-app updates use the signed PolyStudio channel.
 
 File and operation commands use local vector icons. Raster tools stay in a vertical selector with a persistent active indicator. Narrow toolbars move commands into More; use Down to enter and Escape to close it. Tooltips include existing shortcuts and commands expose accessible names in both themes.
 
@@ -43,3 +43,5 @@ PolyPhoto 0.3.5 adds masks, groups, multiple layer selection, lock, merge and No
 Choose paint colors with the Color wheel and use Paint Bucket (G) to fill a connected area on the active layer. The Tolerance control and active selection limit the fill.
 
 The Adjust tab includes editable Tone, Levels, Curves, Hue / Saturation, and Color Balance layers. Levels and Curves show an input histogram. Select an adjustment in Layers and choose Edit adjustment to reopen its controls. Projects that use adjustment layers require PolyPhoto 0.4.5 or later and are saved in format 4.
+
+The sidebar separates Tool options, Layers, and Mask controls. Use the Layer opacity slider to preview changes on the canvas. Tone offers an editable adjustment layer or direct pixel application in the same dialog.
