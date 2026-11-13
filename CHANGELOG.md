@@ -1,5 +1,12 @@
 # PolyPhoto changelog
 
+## 0.5.0
+
+- Redesigned workspace with a neutral canvas, clearer tool groups and a Layers inspector.
+- Native Windows editor with tiled rendering and background processing for large images.
+- Existing .polyphoto projects, layers, masks and adjustment layers remain supported.
+- Tone offers an editable adjustment layer and an explicit option to change pixels.
+
 ## 0.4.6
 
 - Find the layer stack, selected-layer controls, and mask controls in separate sections. Expand Layer actions for organization commands.
