@@ -1,8 +1,8 @@
 # PolyPhoto
 
-PolyPhoto 0.5.5 is a native Windows x64 photo editor with a neutral canvas, a vertical tool strip, and a Layers inspector. Crop, Transform and Image appear above the canvas. The English interface supports light and dark themes. Editing is local and free.
+PolyPhoto 0.5.6 is a native Windows x64 photo editor with a neutral canvas, a vertical tool strip, and a Layers inspector. Crop, Transform and Image appear above the canvas. The English interface supports light and dark themes. Editing is local and free.
 
-[Download the Windows installer](https://downloads.polystudio.tools/polyphoto/0.5.5/PolyPhoto-0.5.5-setup.exe) or [the portable ZIP](https://downloads.polystudio.tools/polyphoto/0.5.5/PolyPhoto-0.5.5-win-x64.zip).
+[Download the Windows installer](https://downloads.polystudio.tools/polyphoto/0.5.6/PolyPhoto-0.5.6-setup.exe) or [the portable ZIP](https://downloads.polystudio.tools/polyphoto/0.5.6/PolyPhoto-0.5.6-win-x64.zip).
 
 Open still PNG/JPEG images and existing .polyphoto projects in separate tabs. Save projects to retain layers, masks, and editable adjustments. Export visible layers as PNG or JPEG. The original imported photo remains available.
 

@@ -1,5 +1,9 @@
 # PolyPhoto changelog
 
+## 0.5.6
+
+- Fixed dropdown indicators that appeared as empty squares on some Windows systems.
+
 ## 0.5.5
 
 - Updated the PolyPhoto logo and moved Crop, Transform and Image above the canvas. Menus have clear indicators and readable command lists.
