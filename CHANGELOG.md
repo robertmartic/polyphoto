@@ -1,5 +1,12 @@
 # PolyPhoto changelog
 
+## 0.5.5
+
+- Updated the PolyPhoto logo and moved Crop, Transform and Image above the canvas. Menus have clear indicators and readable command lists.
+- Added a paint color swatch, and displayed the version in the editor header.
+- Copy and paste images, move selected pixels, and view layer and mask thumbnails. Drag within a layer group to reorder.
+- Added progress and cancellation for export and layer transforms. Fixed no-op brush history, multi-file sRGB import and update storage feedback.
+
 ## 0.5.0
 
 - Redesigned workspace with a neutral canvas, clearer tool groups and a Layers inspector.
