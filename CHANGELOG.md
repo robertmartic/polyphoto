@@ -1,5 +1,15 @@
 # PolyPhoto changelog
 
+## 0.6.0
+
+- Add editable text layers with Ubuntu and Hack fonts, size, color, multiline alignment and canvas movement. Text remains editable in saved projects and recovered documents.
+- Add editable Exposure, Temperature / Tint and Vibrance adjustment layers, with a Show before preview.
+- Retouch with Healing Brush (Alt+click a source) and Red Eye, using size, hardness, strength, selections and Undo.
+- Export lossless WebP as well as PNG/JPEG, choose independent export dimensions, estimate file size and remember export settings.
+- Preview selected pixels while dragging. Use arrow keys for 1 px movement or Shift+arrows for 10 px.
+- Paste clipboard images with Ctrl+V. Extend progress and cancellation to connected fills, selection creation and image/canvas resizing.
+- Keep existing project formats readable. Projects with text or the new adjustments use format 5.
+
 ## 0.5.6
 
 - Fixed dropdown indicators that appeared as empty squares on some Windows systems.
@@ -10,13 +20,6 @@
 - Added a paint color swatch, and displayed the version in the editor header.
 - Copy and paste images, move selected pixels, and view layer and mask thumbnails. Drag within a layer group to reorder.
 - Added progress and cancellation for export and layer transforms. Fixed no-op brush history, multi-file sRGB import and update storage feedback.
-
-## 0.5.0
-
-- Redesigned workspace with a neutral canvas, clearer tool groups and a Layers inspector.
-- Native Windows editor with tiled rendering and background processing for large images.
-- Existing .polyphoto projects, layers, masks and adjustment layers remain supported.
-- Tone offers an editable adjustment layer and an explicit option to change pixels.
 
 ## 0.4.6
 

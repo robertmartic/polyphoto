@@ -1,38 +1,38 @@
 {
   "Format": 1,
-  "Version": "0.5.6",
-  "BuildProvenance": "6321d9b449ab4a728b0d7a86900f7114",
+  "Version": "0.6.0",
+  "BuildProvenance": "77fb11a06a294fb9942ef06af4f07bd5",
   "Channel": "https://updates.polystudio.tools/polyphoto/stable.json",
   "Assets": [
     {
-      "Name": "PolyPhoto-0.5.6-setup.exe",
-      "Bytes": 11322428,
-      "Sha256": "7ea55662a7cb4b8f43fda67584d71cd7104a63f654f431b191ce81f343d16c1c",
-      "Url": "https://downloads.polystudio.tools/polyphoto/0.5.6/PolyPhoto-0.5.6-setup.exe"
+      "Name": "PolyPhoto-0.6.0-setup.exe",
+      "Bytes": 11952261,
+      "Sha256": "a998932c43a8175b61a5feaad78d69bfdc066d0f7acecd92c63a899aa0d1a702",
+      "Url": "https://downloads.polystudio.tools/polyphoto/0.6.0/PolyPhoto-0.6.0-setup.exe"
     },
     {
-      "Name": "PolyPhoto-0.5.6-maintenance.exe",
-      "Bytes": 419990,
-      "Sha256": "164894bb34ef054020b410c265dacfc97de791444e79c5902b88f84dbceb2ba4",
-      "Url": "https://downloads.polystudio.tools/polyphoto/0.5.6/PolyPhoto-0.5.6-maintenance.exe"
+      "Name": "PolyPhoto-0.6.0-maintenance.exe",
+      "Bytes": 419995,
+      "Sha256": "5a7c798df6a7a268e1bbaf2a1d90f49c9d1d19f6bb8e9a9484bd0130340a0aa9",
+      "Url": "https://downloads.polystudio.tools/polyphoto/0.6.0/PolyPhoto-0.6.0-maintenance.exe"
     },
     {
-      "Name": "PolyPhoto-0.5.6-win-x64.zip",
-      "Bytes": 11266352,
-      "Sha256": "917995132468abd633c8a7b34c9a6d65e6d895308a6ed1139e2e1974256b0492",
-      "Url": "https://downloads.polystudio.tools/polyphoto/0.5.6/PolyPhoto-0.5.6-win-x64.zip"
+      "Name": "PolyPhoto-0.6.0-win-x64.zip",
+      "Bytes": 11908214,
+      "Sha256": "416eabd86b08e9e4984a97e5804b6d926a75f607cecb40ce5750b8228f6bd723",
+      "Url": "https://downloads.polystudio.tools/polyphoto/0.6.0/PolyPhoto-0.6.0-win-x64.zip"
     },
     {
-      "Name": "PolyPhoto-0.5.6-manifest.json",
+      "Name": "PolyPhoto-0.6.0-manifest.json",
       "Bytes": 1043,
-      "Sha256": "b36470241a2fd725b025ab0d14f11d089347811d93225238434a4d5505ca18fe",
-      "Url": "https://downloads.polystudio.tools/polyphoto/0.5.6/PolyPhoto-0.5.6-manifest.json"
+      "Sha256": "d07129f8e23a824b3c2b243cfa06568bfc22af5f56fd6b02c812f50604299711",
+      "Url": "https://downloads.polystudio.tools/polyphoto/0.6.0/PolyPhoto-0.6.0-manifest.json"
     },
     {
-      "Name": "PolyPhoto-0.5.5-to-0.5.6-delta.zip",
-      "Bytes": 11109332,
-      "Sha256": "11b767f8129a0af95c6086feb7d0948ab7e8027fd4597a863eb07640645ee709",
-      "Url": "https://downloads.polystudio.tools/polyphoto/0.5.6/PolyPhoto-0.5.5-to-0.5.6-delta.zip"
+      "Name": "PolyPhoto-0.5.6-to-0.6.0-delta.zip",
+      "Bytes": 11900875,
+      "Sha256": "fe0c54f3abf403e48da11a1e27c29a277974407ebe0b26e5a1e17e27334d774f",
+      "Url": "https://downloads.polystudio.tools/polyphoto/0.6.0/PolyPhoto-0.5.6-to-0.6.0-delta.zip"
     }
   ]
 }
